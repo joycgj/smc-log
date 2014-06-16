@@ -19,6 +19,7 @@
         <module>smc-jcl</module>
 		<module>smc-slf4j</module>
 		<module>smc-jcl-over-slf4j</module>
+		<module>smc-logback</module>
     </modules>
 
     <properties>
