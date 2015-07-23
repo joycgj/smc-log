@@ -14,7 +14,7 @@ public class LogTest {
     private static final Logger Logger = LoggerFactory.getLogger(LogTest.class);
 
     public static void main(String[] args) {
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 10; i++) {
             Logger.debug("debug...");
             Logger.info("info...");
             Logger.warn("warn...");
